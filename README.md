@@ -1,22 +1,27 @@
+# Manipulating the DOM
+
 ## Table of contents:
-* [Project Title.](#Project-Title).
 * [Project Description](#Project-Description).
-* [Project files.](#Project-files)
-* [Contribute.](#Contribute)
+* [Technologies](#Technologies).
 * [Development.](#Development)
-# Project Title: Manipulating the DOM
+* [Launch.](#Launch)
+
 
 
 # Project Description:
 
 ### I created an interactive web page using JavaScript, in which navigation bar is created automatically based on the number of sections on the page, smooth scrolling between sections when clicking on the section in a navigation bar, and finally making the section appear active when scrolling to it.
 
-# Project files:
-- HTML (index.html).
-- Css (styles.css).
-- Javascript (app.js).
+# Technologies:
+- HTML.
+- CSS.
+- Javascript.
 
-# Contribute: 
-### In HTML and Css by Udicity.
+
 # Development: 
 ### By Amani OTB.
+
+# Launch: 
+### The project was launched in GitHop
+### Direct link:
+### 
